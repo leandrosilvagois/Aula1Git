@@ -1,0 +1,1 @@
+cmd é o nome a ser digitado na barra de navegação do Windows para abrir o git hub.
